@@ -6,7 +6,7 @@ Perkenalkan nama saya **Muhammad Marcilano Prawira Abi Cakti**.<br>
 
 Saya seorang Mahasiswa Sistem Informasi UNJANI.<br>
 
-My Linkedin: :(https://www.linkedin.com/muhammad-marcilano-prawira/in/) 
+My Linkedin: :https://www.linkedin.com/muhammad-marcilano-prawira/in/
 
 ### Github Statistic
 <p align="left">
